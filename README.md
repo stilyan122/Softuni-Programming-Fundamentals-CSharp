@@ -14,7 +14,7 @@
 
 ### Understanding the interrelationship between different IT concepts
 
-### The solutions to the tasks can be checked in: https://judge.softuni.org\
+### The solutions to the tasks can be checked in: https://judge.softuni.org
 
 ### https://softuni.bg
 
